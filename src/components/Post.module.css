@@ -4,6 +4,10 @@
   background-color: #9c7eee;
 }
 
+.post a {
+  text-decoration: none;
+}
+
 .author {
   font-size: 0.8rem;
   font-weight: bold;
